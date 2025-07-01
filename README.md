@@ -48,7 +48,7 @@ com.ajxtech.cruzeiroec
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ajxtech/cruzeiroec-api.git
+git clone https://github.com/rodrigo-92-srb/cruzeiroec-api.git
 cd cruzeiroec-api
 ```
 
