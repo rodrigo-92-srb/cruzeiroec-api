@@ -25,8 +25,7 @@ This API is designed for integration with web and mobile applications, enabling 
 - Spring Web
 - Spring Data JPA
 - Lombok
-- PostgreSQL
-- Swagger / OpenAPI 3
+- MySQL
 
 ---
 
