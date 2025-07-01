@@ -1,4 +1,4 @@
-# CruzeiroEC API
+# CruzeiroEC API 🔵⚪️🔵
 
 ![Java](https://img.shields.io/badge/Java-17-blue.svg)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.1-brightgreen.svg)
