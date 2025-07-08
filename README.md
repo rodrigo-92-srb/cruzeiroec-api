@@ -1,4 +1,4 @@
-# CruzeiroEC API
+# CruzeiroEC API 🔵⚪️🔵
 
 ![Java](https://img.shields.io/badge/Java-17-blue.svg)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.1-brightgreen.svg)
@@ -48,7 +48,7 @@ com.ajxtech.cruzeiroec
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ajxtech/cruzeiroec-api.git
+git clone https://github.com/rodrigo-92-srb/cruzeiroec-api.git
 cd cruzeiroec-api
 ```
 
