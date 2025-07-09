@@ -10,7 +10,7 @@ import jakarta.persistence.JoinColumn;
 import jakarta.persistence.OneToOne;
 
 @Entity
-class Club {
+public class Club {
 	
 	@Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

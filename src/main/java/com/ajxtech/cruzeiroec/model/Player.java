@@ -8,7 +8,7 @@ import jakarta.persistence.Enumerated;
 import jakarta.persistence.Id;
 
 @Entity
-class Player {
+public class Player {
 
 	@Id 
     private int id;
